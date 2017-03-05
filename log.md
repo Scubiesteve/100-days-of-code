@@ -7,3 +7,11 @@
 
 **Link(s) to work**
 1. http://codepen.io/Scubiesteve/pen/dvMWPw
+
+### Day 2: March 4th, Saturday
+
+**Today's Progress**: Warmed up with a Code Wars KATA. Then continued work on FreeCodeCamp wiki viewer project. Watched videos and read regarding AJAX and pure javascript. I unfortunately did not make much progress on the project.
+
+**Thoughts**: I am unsure of why the request isn't yielding any results. There are no errors showing. I will put more time and effort into this tomorrow and will finish the javascript for this project!
+**Link(s) to work**
+1. http://codepen.io/Scubiesteve/pen/dvMWPw
