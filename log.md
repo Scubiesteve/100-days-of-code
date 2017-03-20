@@ -38,3 +38,15 @@
 **Thoughts**: Almost done with this project! Huge breakthrough!
 **Link(s) to work**
 1. http://codepen.io/Scubiesteve/pen/dvMWPw
+
+******************************
+
+### Day 1: March 19th, Sunday
+
+**Today's Progress**: Restart! :( Researched and wrote a menu that opens and collapses by button. Read eloquent javascript chapter two.
+
+**Thoughts**: Need to keep on trekking. Tomorrow I will finish a few freecodecamp algorithms and read eloquent javascript chapter three.
+
+**Link(s) to work**
+1. http://codepen.io/Scubiesteve/pen/JWMxPN
+
